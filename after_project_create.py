@@ -20,7 +20,7 @@ the following keyword arguments:
 * project_id - The shotgun project id that is being setup
 * log -        A logger instance to which progress can be reported via
                standard logger methods (info, warning, error etc)
-
+ YOLO
 """
 
 def create(sg, project_id, log, **kwargs):
